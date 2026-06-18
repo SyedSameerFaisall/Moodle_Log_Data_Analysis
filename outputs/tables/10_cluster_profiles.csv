@@ -1,0 +1,3 @@
+cluster,level_IDF,consistency,trend_IDF,active_wks,bal_freq,bal_div,n,mean_grade,pct_low
+C1,0.26,0.482,-0.014,10.679,0.165,0.198,675,70.1,3.9
+C2,0.153,0.192,-0.008,9.311,0.118,0.168,615,64,13.8

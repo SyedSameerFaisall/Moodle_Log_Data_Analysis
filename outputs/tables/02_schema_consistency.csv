@@ -1,0 +1,16 @@
+table,cohort_id,n_cols,same_as_ref,extra_cols,missing_cols
+sem,STAT0002_2021,33,TRUE,,
+sem,STAT0002_2223,33,TRUE,,
+sem,STAT0004_2021,33,TRUE,,
+sem,STAT0004_2122,33,TRUE,,
+sem,STAT0004_2223,33,TRUE,,
+grades,STAT0002_2021,5,TRUE,,
+grades,STAT0002_2223,8,FALSE,peer_marking_grade;X.Assessment.Name..002;participation_grade;X.Assessment.Name..003;exam_grade;X.Assessment.Name..001,C1.Mark;C2.Mark;C3.Mark
+grades,STAT0004_2021,4,FALSE,,C3.Mark
+grades,STAT0004_2122,4,FALSE,,C3.Mark
+grades,STAT0004_2223,6,FALSE,group_grade;X.Assessment.Name..001;quiz_grade;X.Assessment.Name..002,C1.Mark;C2.Mark;C3.Mark
+dat,STAT0002_2021,39,TRUE,,
+dat,STAT0002_2223,29,FALSE,final_mark..002;X.Assessment.Name..002;final_mark..003;X.Assessment.Name..003;final_mark..001;X.Assessment.Name..001,X.;Attempts;Programme.Code;Route.Code;Overall.Mark;Overall.Result;C1.Mark;C1.Result;C2.Mark;C2.Result;C3.Mark;C3.Result;Module.Minutes;EC.Minutes;Department;User.ID
+dat,STAT0004_2021,37,FALSE,,C3.Mark;C3.Result
+dat,STAT0004_2122,37,FALSE,,C3.Mark;C3.Result
+dat,STAT0004_2223,27,FALSE,final_mark..001;X.Assessment.Name..001;final_mark..002;X.Assessment.Name..002,X.;Attempts;Programme.Code;Route.Code;Overall.Mark;Overall.Result;C1.Mark;C1.Result;C2.Mark;C2.Result;C3.Mark;C3.Result;Module.Minutes;EC.Minutes;Department;User.ID

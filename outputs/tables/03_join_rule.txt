@@ -1,0 +1,2 @@
+JOIN RULE: inner join sem to grades on User; analysis set = students present
+in BOTH sem and grades with final_grade > 0 (exclude absences, per paper).

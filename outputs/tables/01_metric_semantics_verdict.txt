@@ -1,0 +1,4 @@
+Verified on STAT0004 2021-22 (hybrid). Verdict: per_week.
+Frequency reconstructed from distinct chapter-labelled Session_IDs;
+Diversity from distinct resource_type within chapter sessions.
+Spearman computed within each (chapter, week) group vs sem contributions.

@@ -1,0 +1,6 @@
+cohort_id,module,condition,n_students_sem,n_students_grades,n_overlap,only_in_sem,only_in_grades,weeks,max_chapter,mean_pct_na_contrib,n_grade_zero,n_grade_na,n_analysed,mean_grade,sd_grade,pct_below_50,pct_below_40
+STAT0002_2021,STAT0002,online,342,342,342,0,0,1-11,10,0.373,0,0,342,66.8,13.8,9.9,1.8
+STAT0002_2223,STAT0002,in_person,267,268,267,0,1,1-11,10,0.365,0,0,268,67.4,13,10.4,2.6
+STAT0004_2021,STAT0004,online,312,312,312,0,0,1-11,10,0.368,0,0,312,62.7,12.2,12.5,2.9
+STAT0004_2122,STAT0004,hybrid,172,172,172,0,0,1-11,10,0.38,0,0,172,71.9,8.8,1.7,0
+STAT0004_2223,STAT0004,in_person,197,197,197,0,0,1-11,10,0.342,0,0,197,70.6,11.3,3.6,1

@@ -1,0 +1,51 @@
+cohort_id,condition,week,quintile,n,median_grade,pct_low
+STAT0002_2021,online,3,Q1 Very Low,69,64,15.9
+STAT0002_2021,online,3,Q2 Low,69,65.3,17.4
+STAT0002_2021,online,3,Q3 Moderate,68,66.9,7.4
+STAT0002_2021,online,3,Q4 High,68,70.9,4.4
+STAT0002_2021,online,3,Q5 Very High,68,74,4.4
+STAT0002_2021,online,6,Q1 Very Low,69,63.5,18.8
+STAT0002_2021,online,6,Q2 Low,69,64.9,17.4
+STAT0002_2021,online,6,Q3 Moderate,68,67.7,5.9
+STAT0002_2021,online,6,Q4 High,68,69.6,4.4
+STAT0002_2021,online,6,Q5 Very High,68,73.5,2.9
+STAT0002_2223,in_person,3,Q1 Very Low,54,62.9,22.2
+STAT0002_2223,in_person,3,Q2 Low,54,68.5,11.1
+STAT0002_2223,in_person,3,Q3 Moderate,53,67.2,15.1
+STAT0002_2223,in_person,3,Q4 High,53,69.6,1.9
+STAT0002_2223,in_person,3,Q5 Very High,53,75.3,1.9
+STAT0002_2223,in_person,6,Q1 Very Low,54,65.4,16.7
+STAT0002_2223,in_person,6,Q2 Low,54,64.2,18.5
+STAT0002_2223,in_person,6,Q3 Moderate,53,67.9,13.2
+STAT0002_2223,in_person,6,Q4 High,53,72.2,1.9
+STAT0002_2223,in_person,6,Q5 Very High,53,75.4,1.9
+STAT0004_2021,online,3,Q1 Very Low,63,59.8,25.4
+STAT0004_2021,online,3,Q2 Low,63,63.1,20.6
+STAT0004_2021,online,3,Q3 Moderate,62,62.5,4.8
+STAT0004_2021,online,3,Q4 High,62,65.5,8.1
+STAT0004_2021,online,3,Q5 Very High,62,66,3.2
+STAT0004_2021,online,6,Q1 Very Low,63,60.7,23.8
+STAT0004_2021,online,6,Q2 Low,63,60,17.5
+STAT0004_2021,online,6,Q3 Moderate,62,63.7,11.3
+STAT0004_2021,online,6,Q4 High,62,65.5,3.2
+STAT0004_2021,online,6,Q5 Very High,62,66.9,6.5
+STAT0004_2122,hybrid,3,Q1 Very Low,35,72,5.7
+STAT0004_2122,hybrid,3,Q2 Low,35,70.6,2.9
+STAT0004_2122,hybrid,3,Q3 Moderate,34,68.5,0
+STAT0004_2122,hybrid,3,Q4 High,34,72,0
+STAT0004_2122,hybrid,3,Q5 Very High,34,76.4,0
+STAT0004_2122,hybrid,6,Q1 Very Low,35,70.1,5.7
+STAT0004_2122,hybrid,6,Q2 Low,35,74.7,2.9
+STAT0004_2122,hybrid,6,Q3 Moderate,34,70.4,0
+STAT0004_2122,hybrid,6,Q4 High,34,71.4,0
+STAT0004_2122,hybrid,6,Q5 Very High,34,77.3,0
+STAT0004_2223,in_person,3,Q1 Very Low,40,69.5,7.5
+STAT0004_2223,in_person,3,Q2 Low,40,69.6,0
+STAT0004_2223,in_person,3,Q3 Moderate,39,71.9,7.7
+STAT0004_2223,in_person,3,Q4 High,39,73.8,2.6
+STAT0004_2223,in_person,3,Q5 Very High,39,74.5,0
+STAT0004_2223,in_person,6,Q1 Very Low,40,70.7,7.5
+STAT0004_2223,in_person,6,Q2 Low,40,72.2,2.5
+STAT0004_2223,in_person,6,Q3 Moderate,39,72,5.1
+STAT0004_2223,in_person,6,Q4 High,39,70,2.6
+STAT0004_2223,in_person,6,Q5 Very High,39,73.5,0
